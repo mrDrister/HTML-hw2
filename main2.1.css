@@ -1,0 +1,17 @@
+body{
+    background-color: lightyellow;
+}
+
+#h{
+    color: blueviolet;
+    font-size: 30pt;
+}
+
+.b{
+    font-size: 22pt;
+    color: grey;
+}
+
+.t{
+    font-size: 15pt;
+}
